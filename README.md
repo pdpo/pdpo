@@ -1,6 +1,6 @@
 
 # Hi, I'm AK! 👋
-⚠️ None of my projects have files uploaded since the code isn't production-ready.
+⚠️ None of my projects have files uploaded since the code isn't production-ready yet.
 
 ## 🚀 About Me
 I'm a developer and cybersecurity enthusiast
